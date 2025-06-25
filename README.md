@@ -5,4 +5,5 @@ Aby skorzystać z aplikacji, należy najpierw uruchomić plik `cat3_train.py`. M
 
 Następnie można uruchomić plik `cat3_test.py`, aby przetestować działanie modelu na nowych danych.
 
-
+# Autorzy:
+Dawid Kędzierski, Klaudia Korejwo, Michał Pietrykowski
